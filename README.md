@@ -1,10 +1,10 @@
-## Hi there 👋, my name is Yaroslav :)
+Hi there 👋, my name is Yaroslav :)
 
-# I'm Front-end developer
+## I'm Front-end developer
 
-## Constantly learning new things(challenge driven learner). Looking for opportunity's to work with Rect in a team.
+**Constantly learning new things(challenge driven learner). Looking for opportunity's to work with Rect in a team.**
 
-I like playing game's, fishing, watching good movies/tvshow, long walks
+*I like playing game's, fishing, watching good movies/tvshow, long walks*
 
 ### Connect with me:
 
