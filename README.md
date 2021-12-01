@@ -2,7 +2,7 @@ Hi there 👋, my name is Yaroslav :)
 
 ## I'm Front-end developer
 
-**Constantly learning new things(challenge driven learner). Looking for opportunity's to work with Rect in a team.**
+**Constantly learning new things(challenge driven learner). Learning React <img align="left" alt="HTML5" width="32px" src="https://cdn.cdnlogo.com/logos/r/63/react.svg" /> Looking for opportunity's to work with React <img align="left" alt="HTML5" width="32px" src="https://cdn.cdnlogo.com/logos/r/63/react.svg" /> in a team.**
 
 *I like playing game's, fishing, watching good movies/tvshow, long walks*
 
