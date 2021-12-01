@@ -1,7 +1,29 @@
-### Hi there 👋, my name is Yaroslav :)
+## Hi there 👋, my name is Yaroslav :)
 
-## I'm working as Front-end developer, learning react. Looking for opportunity's to work with Rect in a team.
+# I'm Front-end developer
 
+## Constantly learning new things(challenge driven learner). Looking for opportunity's to work with Rect in a team.
+
+I like playing game's, fishing, watching good movies/tvshow, long walks
+
+### Connect with me:
+
+[<img align="left" alt="MitiukYaroslav | LinkedIn" width="26px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="MitiukYaroslav | Telegram" width="26px" src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" />][telegram]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="32px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+
+[linkedin]: https://www.linkedin.com/in/yaroslav-mitiuk-5a674a177/
+[telegram]: https://t.me/yaraqqq
 
 <!--
 **qqqYara/qqqYara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
