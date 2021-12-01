@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, my name is Yaroslav :)
+
+## I'm working as Front-end developer, learning react. Looking for opportunity's to work with Rect in a team.
+
 
 <!--
 **qqqYara/qqqYara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
