@@ -22,7 +22,7 @@ I'm learning React<img alt="React-icon" width="18px" src="https://cdn.cdnlogo.co
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="jQuery" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
-<img align="left" alt="Gulp" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/g/19/gulp.svg"/>
+<img align="left" alt="Gulp" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/g/30/gulp.svg"/>
 <img align="left" alt="Pug" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/p/49/pug-pugjs.svg"/>
 
 
