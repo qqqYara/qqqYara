@@ -4,7 +4,7 @@ Hi there 👋, my name is Yaroslav :)
 
 **Constantly learning new things(challenge driven learner).
 <br />
-//I'm learning React<img alt="React-icon" width="18px" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"/> and looking for opportunity to work with team on a React<img alt="React-icon" width="18px" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"/> using project.**
+I'm learning React<img alt="React-icon" width="18px" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"/> and looking for opportunity to work with team on a React<img alt="React-icon" width="18px" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"/> using project.**
 
 *I like playing game's, fishing, watching good movies/tvshow, long walks*
 
