@@ -1,10 +1,8 @@
-Hi there 👋, my name is Yaroslav :)
+Hi there 👋 my name is Yaroslav :)
 
 ## I'm Front-end developer
 
-**Constantly learning new things(challenge driven learner).
-<br />
-I'm learning React<img alt="React-icon" width="18px" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"/> and looking for opportunity to work with team on a React<img alt="React-icon" width="18px" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"/> using project.**
+**Interested in learning new things(challenge driven).
 
 *I like playing game's, fishing, watching good movies/tvshow, long walks*
 
@@ -24,6 +22,9 @@ I'm learning React<img alt="React-icon" width="18px" src="https://cdn.cdnlogo.co
 <img align="left" alt="jQuery" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
 <img align="left" alt="Gulp" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/g/39/gulp.svg"/>
 <img align="left" alt="Pug" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/p/49/pug-pugjs.svg"/>
+<img align="left" alt="Tailwind" width="32px" height="32px" src="https://static.cdnlogo.com/logos/t/80/tailwind-css_800.png"/>
+<img align="left" alt="Angular" width="32px" height="32px" src="https://static.cdnlogo.com/logos/a/51/angular.svg"/>
+<img align="left" alt="Vue" width="32px" height="32px" src="https://static.cdnlogo.com/logos/v/21/vue-js_800.png"/>
 
 
 [linkedin]: https://www.linkedin.com/in/yaroslav-mitiuk-5a674a177/
