@@ -29,7 +29,7 @@ Hi there 👋 my name is Yaroslav :)
 <img align="left" alt="Gulp" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/g/39/gulp.svg"/>
 <!-- <img align="left" alt="Pug" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/p/49/pug-pugjs.svg"/> -->
 <img align="left" alt="Cursor" width="32px" height="32px" src="https://static.cdnlogo.com/logos/c/23/cursor.svg"/>
-<img align="left" alt="IDEA" width="32px" height="32px" src="https://static.cdnlogo.com/logos/i/41/intellij-idea.svg"/>
+[<img align="left" alt="IDEA" width="32px" height="32px" src="https://static.cdnlogo.com/logos/i/41/intellij-idea.svg"/>](https://cursor.com/home?from=agents)
 
 
 [linkedin]: https://www.linkedin.com/in/yaroslav-mitiuk-5a674a177/
