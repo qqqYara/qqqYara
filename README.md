@@ -19,43 +19,29 @@ Hi there 👋 my name is Yaroslav :)
 
 ### Tools:
 
+[<img title="Vue" align="left" alt="Vue" width="32px" height="32px" src="https://static.cdnlogo.com/logos/v/21/vue-js_800.png"/>][vue]
+[<img title="Nuxt" align="left" alt="Nuxt" width="32px" height="32px" src="https://static.cdnlogo.com/logos/n/83/nuxt_800.png"/>][nuxt]
+[<img title="Angular" align="left" alt="Angular" width="32px" height="32px" src="https://static.cdnlogo.com/logos/a/51/angular.svg"/>][angular]
+<img title="JavaScript" align="left" alt="JavaScript" width="32px" height="32px" src="https://static.cdnlogo.com/logos/j/44/javascript.svg"/>
+[<img title="TypeScript" align="left" alt="TypeScript" width="32px" height="32px" src="https://static.cdnlogo.com/logos/t/96/typescript.svg"/>][typescript]
+[<img title="jQuery" align="left" alt="jQuery" width="32px" height="32px" src="https://static.cdnlogo.com/logos/j/67/jquery_800.png"/>][jquery]
+[<img title="Tailwind CSS" align="left" alt="Tailwind CSS" width="32px" height="32px" src="https://static.cdnlogo.com/logos/t/80/tailwind-css_800.png"/>][tailwind]
+[<img title="Sass" align="left" alt="Sass" width="32px" height="32px" src="https://static.cdnlogo.com/logos/s/90/sass.svg"/>][sass]
+[<img title="Gulp" align="left" alt="Gulp" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/g/39/gulp.svg"/>][gulp]
+[<img title="Cursor" align="left" alt="Cursor" width="32px" height="32px" src="https://static.cdnlogo.com/logos/c/23/cursor.svg"/>][cursor]
+[<img title="IntelliJ IDEA" align="left" alt="IntelliJ IDEA" width="32px" height="32px" src="https://static.cdnlogo.com/logos/i/41/intellij-idea.svg"/>][intellij]
 
+[vue]: https://vuejs.org/
+[nuxt]: https://nuxt.com/
+[angular]: https://angular.io/
+[typescript]: https://www.typescriptlang.org/
+[jquery]: https://jquery.com/
+[tailwind]: https://tailwindcss.com/
+[sass]: https://sass-lang.com/
+[gulp]: https://gulpjs.com/
+[cursor]: https://cursor.sh/
+[intellij]: https://www.jetbrains.com/idea/
 
-<p align="center">
-  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.cdnlogo.com/logos/v/21/vue-js_800.png" alt="Vue" title="Vue" width="32" style="margin: 0 8px;" />
-  </a>
-  <a href="https://nuxt.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.cdnlogo.com/logos/n/83/nuxt_800.png" alt="Nuxt" title="Nuxt" width="32" style="margin: 0 8px;" />
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.cdnlogo.com/logos/a/51/angular.svg" alt="Angular" title="Angular" width="32" style="margin: 0 8px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.cdnlogo.com/logos/j/44/javascript.svg" alt="JavaScript" title="JavaScript" width="32" style="margin: 0 8px;" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.cdnlogo.com/logos/t/96/typescript.svg" alt="TypeScript" title="TypeScript" width="32" style="margin: 0 8px;" />
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.cdnlogo.com/logos/j/67/jquery_800.png" alt="jQuery" title="jQuery" width="32" style="margin: 0 8px;" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.cdnlogo.com/logos/t/80/tailwind-css_800.png" alt="Tailwind CSS" title="Tailwind CSS" width="32" style="margin: 0 8px;" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.cdnlogo.com/logos/s/90/sass.svg" alt="Sass" title="Sass" width="32" style="margin: 0 8px;" />
-  </a>
-  <a href="https://gulpjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.cdnlogo.com/logos/g/39/gulp.svg" alt="Gulp" title="Gulp" width="32" style="margin: 0 8px;" />
-  </a>
-  <a href="https://cursor.sh/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" alt="Cursor" title="Cursor" width="32" style="margin: 0 8px;" />
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.cdnlogo.com/logos/i/41/intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="32" style="margin: 0 8px;" />
-  </a>
-</p>
 
 
 <!--
