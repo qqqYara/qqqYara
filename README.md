@@ -16,19 +16,18 @@ Hi there 👋 my name is Yaroslav :)
 ### Tools:
 
 
-<div style="display: flex;alin-items:center;">
-  <img align="left" alt="Vue" width="32px" height="32px" src="https://static.cdnlogo.com/logos/v/21/vue-js_800.png"/>
-  <img align="left" alt="Nuxt" width="32px" height="32px" src="https://static.cdnlogo.com/logos/n/83/nuxt_800.png"/>
-  <img align="left" alt="Angular" width="32px" height="32px" src="https://static.cdnlogo.com/logos/a/51/angular.svg"/>
-  <img align="left" alt="JavaScript" width="32px" src="https://static.cdnlogo.com/logos/j/44/javascript.svg" />
-  <img align="left" alt="TypeScript" width="32px" src="https://static.cdnlogo.com/logos/t/96/typescript.svg" />
-  <img align="left" alt="jQuery" width="32px" src="https://static.cdnlogo.com/logos/j/67/jquery_800.png"/>
-  <img align="left" alt="Tailwind" width="32px" height="32px" src="https://static.cdnlogo.com/logos/t/80/tailwind-css_800.png"/>
-  <img align="left" alt="Sass" width="32px" src="https://static.cdnlogo.com/logos/s/90/sass.svg" />
-  <img align="left" alt="Gulp" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/g/39/gulp.svg"/>
-  <img align="left" alt="Cursor" width="32px" height="32px" src="https://static.cdnlogo.com/logos/c/23/cursor.svg"/>
-  <img align="left" alt="IDEA" width="32px" height="32px" src="https://static.cdnlogo.com/logos/i/41/intellij-idea.svg"/>
-</div>
+
+[<img title="Vue" align="left" alt="Vue" width="32px" height="32px" src="https://static.cdnlogo.com/logos/v/21/vue-js_800.png"/>][vue]
+<img align="left" alt="Nuxt" width="32px" height="32px" src="https://static.cdnlogo.com/logos/n/83/nuxt_800.png"/>
+<img align="left" alt="Angular" width="32px" height="32px" src="https://static.cdnlogo.com/logos/a/51/angular.svg"/>
+<img align="left" alt="JavaScript" width="32px" src="https://static.cdnlogo.com/logos/j/44/javascript.svg" />
+<img align="left" alt="TypeScript" width="32px" src="https://static.cdnlogo.com/logos/t/96/typescript.svg" />
+<img align="left" alt="jQuery" width="32px" src="https://static.cdnlogo.com/logos/j/67/jquery_800.png"/>
+<img align="left" alt="Tailwind" width="32px" height="32px" src="https://static.cdnlogo.com/logos/t/80/tailwind-css_800.png"/>
+<img align="left" alt="Sass" width="32px" src="https://static.cdnlogo.com/logos/s/90/sass.svg" />
+<img align="left" alt="Gulp" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/g/39/gulp.svg"/>
+<img align="left" alt="Cursor" width="32px" height="32px" src="https://static.cdnlogo.com/logos/c/23/cursor.svg"/>
+<img align="left" alt="IDEA" width="32px" height="32px" src="https://static.cdnlogo.com/logos/i/41/intellij-idea.svg"/>
 <!-- <img align="left" alt="Pug" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/p/49/pug-pugjs.svg"/> -->
 <!-- <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
 <!-- <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
@@ -36,6 +35,8 @@ Hi there 👋 my name is Yaroslav :)
 
 [linkedin]: https://www.linkedin.com/in/yaroslav-mitiuk-5a674a177/
 [telegram]: https://t.me/yaraqqq
+
+[vue]: https://vuejs.org/
 
 <!--
 **qqqYara/qqqYara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
