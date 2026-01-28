@@ -13,7 +13,7 @@ Hi there 👋 my name is Yaroslav :)
 
 <br />
 
-### Languages and Tools:
+### Tools:
 
 
 <img align="left" alt="Vue" width="32px" height="32px" src="https://static.cdnlogo.com/logos/v/21/vue-js_800.png"/>
