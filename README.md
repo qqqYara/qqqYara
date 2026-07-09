@@ -42,7 +42,15 @@ Hi there 👋 my name is Yaroslav :)
 [cursor]: https://cursor.sh/
 [intellij]: https://www.jetbrains.com/idea/
 
+### Recent pet projects:
+[FilmCase][film-case]
+[film-case]: https://qqqyara.github.io/film-case/
 
+[ImageEditor][image-editor]
+[image-editor]: https://qqqyara.github.io/image-editor/
+
+[Layout showcase][eltex-tw]
+[image-editor]: https://qqqyara.github.io/eltex-tw/
 
 <!--
 **qqqYara/qqqYara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
