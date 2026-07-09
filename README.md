@@ -22,8 +22,9 @@ Hi there 👋 I'm Yaroslav.
 
 💡 *Middle-click a badge (or Ctrl/Cmd + Click) to open the demo in a new tab.*
 
-[![Film Case](https://img.shields.io/badge/🎬_Film_Case-Live_Demo-2563eb?style=for-the-badge)](https://qqqyara.github.io/film-case/)
 [![Image Editor](https://img.shields.io/badge/🖼️_Image_Editor-Live_Demo-10b981?style=for-the-badge)](https://qqqyara.github.io/image-editor/)
+[![FullCalendar](https://img.shields.io/badge/🗓️_Calendar-Live_Demo-d94c4c?style=for-the-badge)](https://qqqyara.github.io/jointoit-tw/)
+[![Film Case](https://img.shields.io/badge/🎬_Film_Case-Live_Demo-2563eb?style=for-the-badge)](https://qqqyara.github.io/film-case/)
 [![Layout Showcase](https://img.shields.io/badge/🎨_Layout_Showcase-Live_Demo-f97316?style=for-the-badge)](https://qqqyara.github.io/eltex-tw/)
 
 ### 🛠️ Tech Stack:
