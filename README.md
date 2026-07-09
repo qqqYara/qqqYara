@@ -31,28 +31,35 @@ Hi there 👋 I'm Yaroslav.
 
 💡 *Middle-click a badge (or Ctrl/Cmd + Click) to open the source in a new tab.*
 
-[<img title="Vue" align="left" alt="Vue" width="32px" height="32px" src="https://static.cdnlogo.com/logos/v/21/vue-js_800.png"/>][vue]
-[<img title="Nuxt" align="left" alt="Nuxt" width="32px" height="32px" src="https://static.cdnlogo.com/logos/n/83/nuxt_800.png"/>][nuxt]
-[<img title="Angular" align="left" alt="Angular" width="32px" height="32px" src="https://static.cdnlogo.com/logos/a/51/angular.svg"/>][angular]
-<img title="JavaScript" align="left" alt="JavaScript" width="32px" height="32px" src="https://static.cdnlogo.com/logos/j/44/javascript.svg"/>
-[<img title="TypeScript" align="left" alt="TypeScript" width="32px" height="32px" src="https://static.cdnlogo.com/logos/t/96/typescript.svg"/>][typescript]
-[<img title="jQuery" align="left" alt="jQuery" width="32px" height="32px" src="https://static.cdnlogo.com/logos/j/67/jquery_800.png"/>][jquery]
-[<img title="Tailwind CSS" align="left" alt="Tailwind CSS" width="32px" height="32px" src="https://static.cdnlogo.com/logos/t/80/tailwind-css_800.png"/>][tailwind]
-[<img title="Sass" align="left" alt="Sass" width="32px" height="32px" src="https://static.cdnlogo.com/logos/s/90/sass.svg"/>][sass]
-[<img title="Gulp" align="left" alt="Gulp" width="32px" height="32px" src="https://cdn.cdnlogo.com/logos/g/39/gulp.svg"/>][gulp]
-[<img title="Cursor" align="left" alt="Cursor" width="32px" height="32px" src="https://static.cdnlogo.com/logos/c/23/cursor.svg"/>][cursor]
-[<img title="IntelliJ IDEA" align="left" alt="IntelliJ IDEA" width="32px" height="32px" src="https://static.cdnlogo.com/logos/i/41/intellij-idea.svg"/>][intellij]
+[<img title="Vue.js" align="left" alt="Vue.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>][vue]
+[<img title="Nuxt" align="left" alt="Nuxt" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"/>][nuxt]
+[<img title="Angular" align="left" alt="Angular" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>][angular]
+[<img title="React" align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>][react]
+[<img title="Next.js" align="left" alt="Next.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>][next]
+[<img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>][javascript]
+[<img title="TypeScript" align="left" alt="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>][typescript]
+[<img title="jQuery" align="left" alt="jQuery" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>][jquery]
+[<img title="Tailwind CSS" align="left" alt="Tailwind CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>][tailwind]
+[<img title="Sass" align="left" alt="Sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>][sass]
+[<img title="Gulp" align="left" alt="Gulp" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"/>][gulp]
+[<img title="Cursor" align="left" alt="Cursor" width="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png"/>][cursor]
+[<img title="IntelliJ IDEA" align="left" alt="IntelliJ IDEA" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>][intellij]
+[<img title="Claude Code" align="left" alt="Claude Code" width="32px" src="https://api.iconify.design/simple-icons:claude.svg?color=%23D97757" />][claude]
 
 [vue]: https://vuejs.org/
 [nuxt]: https://nuxt.com/
-[angular]: https://angular.io/
+[angular]: https://angular.dev/
+[react]: https://react.dev/
+[next]: https://nextjs.org/
+[javascript]: https://developer.mozilla.org/docs/Web/JavaScript
 [typescript]: https://www.typescriptlang.org/
 [jquery]: https://jquery.com/
 [tailwind]: https://tailwindcss.com/
 [sass]: https://sass-lang.com/
 [gulp]: https://gulpjs.com/
-[cursor]: https://cursor.sh/
+[cursor]: https://cursor.com/
 [intellij]: https://www.jetbrains.com/idea/
+[claude]: https://www.anthropic.com/claude-code/
 
 <!--
 **qqqYara/qqqYara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
