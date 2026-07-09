@@ -1,23 +1,24 @@
-Hi there 👋 my name is Yaroslav :)
+Hi there 👋 I'm Yaroslav.
 
-## I'm Front-end developer
+# Frontend Developer
 
-**Interested in learning new things(challenge driven).
+**I build modern web applications with a focus on clean, responsive, and accessible user interfaces. I'm always exploring new technologies and enjoy taking on challenging projects.**
 
-*I like playing game's, fishing, watching good movies/tvshow, long walks*
+*Outside of coding, I enjoy gaming, watching movies & TV shows, fishing, and hiking.*
 
-### Connect with me:
+### 🤝 Connect with me:
 
-[<img align="left" alt="MitiukYaroslav | LinkedIn" width="26px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="MitiukYaroslav | Telegram" width="26px" src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" />][telegram]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg" />][discord]
 
 [linkedin]: https://www.linkedin.com/in/yaroslav-mitiuk-5a674a177/
 [telegram]: https://t.me/yaraqqq
-
+[discord]: https://discord.com/users/169198503136854016
 
 <br />
 
-### Tools:
+### 🛠️ Tech Stack:
 
 [<img title="Vue" align="left" alt="Vue" width="32px" height="32px" src="https://static.cdnlogo.com/logos/v/21/vue-js_800.png"/>][vue]
 [<img title="Nuxt" align="left" alt="Nuxt" width="32px" height="32px" src="https://static.cdnlogo.com/logos/n/83/nuxt_800.png"/>][nuxt]
@@ -42,15 +43,15 @@ Hi there 👋 my name is Yaroslav :)
 [cursor]: https://cursor.sh/
 [intellij]: https://www.jetbrains.com/idea/
 
-### Recent pet projects:
-[FilmCase][film-case]
-[film-case]: https://qqqyara.github.io/film-case/
+<br />
 
-[ImageEditor][image-editor]
-[image-editor]: https://qqqyara.github.io/image-editor/
+### 🚀 Recent Pet Projects:
 
-[Layout showcase][eltex-tw]
-[image-editor]: https://qqqyara.github.io/eltex-tw/
+💡 *Middle-click a badge (or Ctrl/Cmd + Click) to open the demo in a new tab.*
+
+[![Film Case](https://img.shields.io/badge/🎬_Film_Case-Live_Demo-2563eb?style=for-the-badge)](https://qqqyara.github.io/film-case/)
+[![Image Editor](https://img.shields.io/badge/🖼️_Image_Editor-Live_Demo-10b981?style=for-the-badge)](https://qqqyara.github.io/image-editor/)
+[![Layout Showcase](https://img.shields.io/badge/🎨_Layout_Showcase-Live_Demo-f97316?style=for-the-badge)](https://qqqyara.github.io/eltex-tw/)
 
 <!--
 **qqqYara/qqqYara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
